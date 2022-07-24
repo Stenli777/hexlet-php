@@ -1,0 +1,12 @@
+{
+    "name": "stenli777/hexlet-php",
+    "description": "description-project-stenli777",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Stenli777",
+            "email": "alekseysten777@yandex.ru"
+        }
+    ],
+    "require": {}
+}
